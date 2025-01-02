@@ -1,6 +1,6 @@
 ## NAME:V.MANIMARAN
 ## REG NO:24008541
-# EXPERIMENT2:IMPLEMENTATION OF BOOLEAN FUNCTION MINIMIZATION
+# EXPERIMENT2:IMPLEMENTATION OF BOOLEAN FUNCTION
 # AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
